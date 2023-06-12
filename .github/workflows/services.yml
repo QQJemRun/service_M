@@ -1,5 +1,5 @@
 name: debugger-action
-on: push
+on:
   watch:
     types: started
 jobs:
