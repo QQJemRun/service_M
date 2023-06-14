@@ -2,5 +2,13 @@
 ## 云服务器
 
 ``` python
-print('hello')
+import os
+import socket
+
+def main():
+  print('hello')
+
+if __name__ == "__main__":
+  main()
+
 ```
